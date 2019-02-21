@@ -5,19 +5,16 @@ Návod pro vytvoření vlastního skillu k přehrátí rádia RockMax na Amazon 
 2. Vytvoříme nový skill (Create Skill)
 
 3. Vyplníme následovně:
-
-	Skill name: rockmax
+	Skill name: rockmax        
 	Default Language: English (UK) nebo English (US), záleží jaký jazyk máme nastavený na Echu
-	Vše ostatní necháme výchozí (Model - Custom, Method - Self Hosted)
+        Vše ostatní necháme výchozí (Model - Custom, Method - Self Hosted)
 	Pokračujeme dál (Create skill)
 
 4. Vybereme výchozí možnost (Start from scratch) a jdeme dál...
 
 5. V levém menu máme položku "Invocation"
-
 	Zde nastavíme Skill invocation name: rockmax (tj, slovo na které alexa bude reagovat)
 	Nyní položka JSON Editor, zde vložíme obsah souboru models/en-GB.json
-
 	Klikneme na "Save Model"
 
 6. Dále Interfaces, zde povolíme "Audio Player"
