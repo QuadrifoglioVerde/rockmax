@@ -15,7 +15,6 @@ Návod pro vytvoření vlastního skillu k přehrátí rádia RockMax na Amazon 
 
 5. V levém menu máme položku "Invocation",
 	Zde nastavíme Skill invocation name: rockmax (tj, slovo na které alexa bude reagovat)
-
 	Nyní položka JSON Editor, zde vložíme obsah souboru models/en-GB.json
 
 	Klikneme na "Save Model"
